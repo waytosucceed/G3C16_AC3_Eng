@@ -1,0 +1,271 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Which of the following is a coordinating conjunction?",
+    "options": [
+      "Because",
+      "But",
+      "Although",
+      "Since"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "I wanted to go for a run, _____ it started raining heavily.",
+    "options": [
+      "but",
+      "and",
+      "so",
+      "or"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "She can come to the party _____ she finishes her homework.",
+    "options": [
+      "or",
+      "unless",
+      "if",
+      "so"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Identify the coordinating conjunction in the sentence: \"She was tired, so she decided to take a nap.\"",
+    "options": [
+      "Was",
+      "Decided",
+      "So",
+      "To"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "A subordinating conjunction is used to introduce a dependent clause.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "He didn't understand the lesson, _____ he asked the teacher for help.",
+    "options": [
+      "because",
+      "so",
+      "although",
+      "nor"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Identify the coordinating conjunction in the sentence: \"She likes to read novels and play tennis.\"",
+    "options": [
+      "Likes",
+      "And",
+      "To",
+      "Play"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Which of the following is a subordinating conjunction?",
+    "options": [
+      "So",
+      "Yet",
+      "When",
+      "Or"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Commas are always required when using a subordinating conjunction.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "A dependent clause can stand alone as a complete sentence.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "You can have tea _____ coffee with your breakfast.",
+    "options": [
+      "nor",
+      "but",
+      "or",
+      "so"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Which of the following is a coordinating conjunction?",
+    "options": [
+      "Since",
+      "If",
+      "Yet",
+      "Because"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "I wanted to go for a walk, _____ it was raining heavily.",
+    "options": [
+      "but",
+      "or",
+      "and",
+      "so"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "She can stay at home _____ she can come with us.",
+    "options": [
+      "and",
+      "or",
+      "so",
+      "but"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "I will call you _____ I arrive at the office.",
+    "options": [
+      "and",
+      "but",
+      "or",
+      "when"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "He didn't finish his homework, _____ he had to stay up late.",
+    "options": [
+      "so",
+      "but",
+      "because",
+      "and"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "We decided to stay in _____ the weather was bad.",
+    "options": [
+      "and",
+      "so",
+      "because",
+      "but"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Which of the following is a subordinating conjunction?",
+    "options": [
+      "Nor",
+      "And",
+      "After",
+      "Or"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Identify the subordinating conjunction in the sentence: \"If you study hard, you will succeed.\"",
+    "options": [
+      "You",
+      "Will",
+      "If",
+      "Succeed"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Which of the following is a coordinating conjunction?",
+    "options": [
+      "Unless",
+      "So",
+      "Before",
+      "Or"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q21.",
+    "question": "Choose the sentence that correctly uses a coordinating conjunction.",
+    "options": [
+      "I like to read books, and my brother prefers to watch movies.",
+      "Although I like to read books, but my brother prefers to watch movies.",
+      "I like to read books, nor my brother prefers to watch movies.",
+      "I like to read books yet my brother prefers to watch movies."
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q22.",
+    "question": "Choose the sentence that correctly uses a subordinating conjunction.",
+    "options": [
+      "It is not Henry who should do it but you.",
+      "You can go to the theatre, or watch it online.",
+      "I will study hard so that I pass the exam.",
+      "We went to the park nor the museum."
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q23.",
+    "question": "Identify the coordinating conjunction in the sentence: \"He is a doctor, but he also teaches at the university.\"",
+    "options": [
+      "Is",
+      "Also",
+      "But",
+      "At"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q24.",
+    "question": "Choose the sentence that correctly uses a subordinating conjunction.",
+    "options": [
+      "Keeping a journal and listening to music are my hobbies.",
+      "I will go to the movies if you want to come.",
+      "Although she tried hard, but she couldn't solve the problem.",
+      "He was sleepy nor he went to bed early."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q25.",
+    "question": "Choose the sentence that correctly uses a coordinating conjunction.",
+    "options": [
+      "The weather was sunny, however we decided to stay indoors.",
+      "She is a talented artist and a skilled musician.",
+      "We waited for the bus, as it never came.",
+      "I would like to go to the park, nor the beach."
+    ],
+    "correct": 1
+  }
+]
